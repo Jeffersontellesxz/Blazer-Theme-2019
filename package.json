@@ -1,0 +1,21 @@
+{
+    "name": "blazer",
+    "displayName": "Blazer",
+    "description": "Theme Blazer Dark",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.35.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Blazer",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Blazer-color-theme.json"
+            }
+        ]
+    }
+}
